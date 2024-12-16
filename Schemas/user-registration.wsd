@@ -1,0 +1,10 @@
+@startuml name
+
+autonumber
+actor user as "Клиент"
+participant svcAuth as "Сервис\nрегистрации"
+participant svcNotify as "Сервис\nнотификации"
+
+
+
+@enduml
